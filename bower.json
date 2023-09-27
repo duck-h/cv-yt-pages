@@ -1,0 +1,22 @@
+{
+  "name": "YT's CV",
+  "version": "1.0.0",
+  "description": "Web Designer and Developer",
+  "keywords": [
+    "CV",
+    "Web Designer",
+    "Web Developer",
+    "Web Front-end"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagepiling.js": "~0.0.7"
+  }
+}
+
